@@ -1,0 +1,6 @@
+C:\دراسة\moaz 2\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\دراسة\moaz 2\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\دراسة\moaz 2\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\دراسة\moaz 2\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+C:\دراسة\moaz 2\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\دراسة\moaz 2\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
